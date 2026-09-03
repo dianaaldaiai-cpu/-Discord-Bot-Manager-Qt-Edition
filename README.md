@@ -1,5 +1,5 @@
 # 🤖 Discord Bot Manager — Qt Edition          # ملاحضه بسيطه لازم تزور موقع  https://kerdiscord123.vercel.app وشكرا و اكتب اسمك و رح يولدلك مفتاح 
-
+# رابط التحميل https://github.com/dianaaldaiai-cpu/-Discord-Bot-Manager-Qt-Edition/releases
 نفس التطبيق، لكن بمكتبة حديثة: **PySide6 (Qt6)** بدل customtkinter، مع **qasync**
 لدمج asyncio مباشرة داخل event loop تبع Qt (بدون Thread منفصل) — وهذا يحل غالباً
 مشكلة "ما يتصل أبداً" لأنه ما يصير تعارض بين event loop تبع tkinter وevent loop تبع البوت.
