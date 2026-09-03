@@ -1,4 +1,4 @@
-# 🤖 Discord Bot Manager — Qt Edition
+# 🤖 Discord Bot Manager — Qt Edition          # ملاحضه بسيطه لازم تزور موقع  https://kerdiscord123.vercel.app وشكرا و اكتب اسمك و رح يولدلك مفتاح 
 
 نفس التطبيق، لكن بمكتبة حديثة: **PySide6 (Qt6)** بدل customtkinter، مع **qasync**
 لدمج asyncio مباشرة داخل event loop تبع Qt (بدون Thread منفصل) — وهذا يحل غالباً
